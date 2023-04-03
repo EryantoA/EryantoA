@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eryanto Agusriadi</h1>
 <h3 align="center">A passionate mobile developer from Indonesia</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/code-coding-xray-B6IBrYTyvo1UJOXF9u">
+<iframe src="https://giphy.com/embed/B6IBrYTyvo1UJOXF9u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eryantoa&label=Profile%20views&color=0e75b6&style=flat" alt="eryantoa" /> </p>
 
