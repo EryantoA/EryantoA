@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [https://eryantoa.github.io/#/](https://eryantoa.github.io/#/)
+- 👨‍💻 All of my projects are available at [https://eryantoa.github.io](https://eryantoa.github.io/#/)
 
 - 💬 Ask me about **flutter, dart**
 
