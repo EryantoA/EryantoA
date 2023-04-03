@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eryanto Agusriadi</h1>
 <h3 align="center">A passionate mobile developer from Indonesia</h3>
-<img align="center" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDQ4YzJhZGY5YTQ5MzZkYzE3NTk0ODFkOTg1YzM3YzQ1N2RkNDAxNiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDQ4YzJhZGY5YTQ5MzZkYzE3NTk0ODFkOTg1YzM3YzQ1N2RkNDAxNiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eryantoa&label=Profile%20views&color=0e75b6&style=flat" alt="eryantoa" /> </p>
 
