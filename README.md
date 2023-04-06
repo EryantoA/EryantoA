@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=eryantoa&label=Profile%20views&color=0e75b6&style=flat" alt="eryantoa" /> </p> -->
 
-<p align="left"> <a href="https://twitter.com/eryanto_agusri" target="blank"><img src="https://img.shields.io/twitter/follow/eryanto_agusri?logo=twitter&style=for-the-badge" alt="eryanto_agusri" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/eryanto_agusri" target="blank"><img src="https://img.shields.io/twitter/follow/eryanto_agusri?logo=twitter&style=for-the-badge" alt="eryanto_agusri" /></a> </p> -->
 
 - 🌱 I’m currently learning **React js**
 
